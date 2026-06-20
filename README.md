@@ -96,8 +96,3 @@ Data Analyst | Business Analyst | Data Scientist
 * LinkedIn:https://www.linkedin.com/in/mohd-riyaz-96abb8285
 * Resume: https://drive.google.com/file/d/1--ZD4QsfDXVmvANE6V6kXfnDfKczfqGp/view?usp=drive_link
 
----
-
-## Dashboard Preview
-
-(Add dashboard screenshot here)
